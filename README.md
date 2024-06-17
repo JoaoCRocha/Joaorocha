@@ -4,3 +4,5 @@ Repositório do App Saúde Fácil
 https://github.com/JoaoCRocha/Joaorocha/assets/143043313/30780567-f574-40ac-a825-16454343883b
 
 [Fluoxograma.pdf](https://github.com/user-attachments/files/15687463/Fluoxograma.pdf)
+
+  https://docs.google.com/presentation/d/1FHVDeyprn-rv8NzpXnkTks4MyuON37W44vs7ZqyXpl4/edit?usp=sharing
